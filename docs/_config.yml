@@ -15,17 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 show_excerpts: true
 
-sass:
-  sass_dir: ./_sass
-
 # https://github.com/thelehhman/plainwhite-jekyll
-# TODO: handle licensing https://github.com/thelehhman/plainwhite-jekyll/blob/master/LICENSE.txt 
 plainwhite:
   date_format: "%Y-%m-%d"
   sitemap: true
 
 
-# Build settings
+# Build settings  
 repository: mdhaseeb/blog
 markdown: kramdown
 theme: plainwhite
