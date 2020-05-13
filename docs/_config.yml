@@ -13,6 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: Randomness
+author: Mohammed Haseeb
+email: has.rvce@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Blog containing random ramblings.
 show_excerpts: true
 
 # https://github.com/thelehhman/plainwhite-jekyll
@@ -21,9 +26,9 @@ plainwhite:
   sitemap: true
 
 # Build settings  
-# repository: mdhaseeb/blog
 markdown: kramdown
 theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
 plugins:
 
 # Exclude from processing.
