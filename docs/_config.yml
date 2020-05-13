@@ -20,9 +20,8 @@ plainwhite:
   date_format: "%Y-%m-%d"
   sitemap: true
 
-
 # Build settings  
-repository: mdhaseeb/blog
+# repository: mdhaseeb/blog
 markdown: kramdown
 theme: plainwhite
 plugins:
