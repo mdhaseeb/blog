@@ -18,6 +18,7 @@ author: Mohammed Haseeb
 email: has.rvce@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Blog containing random ramblings.
+url: "https://mdhaseeb.github.io/blog"
 show_excerpts: true
 
 # https://github.com/thelehhman/plainwhite-jekyll
